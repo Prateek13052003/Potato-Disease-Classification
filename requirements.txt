@@ -1,0 +1,7 @@
+matplotlib
+numpy
+notebook
+tensorflow-addons
+tensorflow-model-optimization
+tensorflow-macos==2.15.0
+tensorflow-metal
